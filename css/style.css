@@ -1,0 +1,27 @@
+/*=================UNIVERSALS===================*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    
+}
+
+/*===============HEADER=================*/
+
+body>header>span>h2 {
+    float: left;
+    padding-left: 3%;
+    color: #e00007;
+    background-color: #3d3d3d;
+}
+
+#header_tabs {
+    float: right;
+}
